@@ -5,6 +5,6 @@ such common reasoning, math, table related, KG relate or multimodal(welcome to n
 
 # Reasoning with Language Model Prompting Papers
 [![Awesome](https://awesome.re/badge.svg)](https://github.com/4IK1d/awesome-llm-reasoning/) 
-[![License: Apache2.0](https://img.shields.io/badge/License-apache-green.svg)](https://opensource.org/license/apache-2-0/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 ![](https://img.shields.io/github/last-commit/4IK1d/awesome-llm-reasoning?color=green) 
 ![](https://img.shields.io/badge/PRs-Welcome-red)
