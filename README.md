@@ -14,7 +14,7 @@ such common reasoning, math, table related, KG relate or multimodal(welcome to n
 # Table-based Reasoning
 
 | Paper | code | data |
-| :----------------------------------------------: | :---------------------------------------------- | :---------------------------------------------- |
+| :---------------------------------------------- | :---------------------------------------------- | :---------------------------------------------- |
 |  [StructGPT: A General Framework for Large Language Model to Reason over Structured Data](https://arxiv.org/pdf/2305.09645.pdf)  | [code](https://github.com/RUCAIBox/StructGPT) | [data](https://drive.google.com/drive/folders/11_2pqU_MhEtmxpp3zfK_8EJ1bbQzsnfJ?usp=sharing) / [raw](https://github.com/HKUNLP/UnifiedSKG) |
 |  [Large Language Models are Effective Table-to-Text Generators, Evaluators, and Feedback Providers](https://arxiv.org/abs/2305.14987)  | [code](https://github.com/yilunzhao/LLM-T2T) | [data](https://github.com/yilunzhao/LLM-T2T) |
 |  [Large Language Models are few(1)-shot Table Reasoners](https://arxiv.org/pdf/2210.06710.pdf)  | [code](https://github.com/wenhuchen/TableCoT) | [WikiTableQuestions](https://ppasupat.github.io/WikiTableQuestions/) / [FetaQA](https://arxiv.org/pdf/2104.00369v1.pdf) / [TabFact](https://tabfact.github.io/)|
