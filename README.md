@@ -24,8 +24,6 @@ such common reasoning, math, table related, KG relate or multimodal(welcome to n
 |  [Evaluating and Enhancing Structural Understanding Capabilities of Large Language Models on Tables via Input Designs](https://arxiv.org/pdf/2305.13062.pdf)  | [code](https://github.com/RUCAIBox/POPE) | [HybridQA](https://github.com/wenhuchen/HybridQA) / [ToTTo](https://github.com/google-research-datasets/totto) / [TabFact](https://tabfact.github.io/) / [FEVEROUS](https://fever.ai/dataset/feverous.html) |
 |  [Enhancing Few-shot Text-to-SQL Capabilities of Large Language Models: A Study on Prompt Design Strategies](https://arxiv.org/pdf/2305.13062.pdf)  | [code](https://github.com/linyongnan/STRIKE) | [data](https://github.com/linyongnan/STRIKE) |
 
-|  [Enhancing Few-shot Text-to-SQL Capabilities of Large Language Models: A Study on Prompt Design Strategies](https://arxiv.org/pdf/2305.13062.pdf)  | [code](https://github.com/linyongnan/STRIKE) | [data](https://github.com/linyongnan/STRIKE) |
-
 # Related Fields
 
 ## Hallucination Evaluation
