@@ -21,7 +21,10 @@ such common reasoning, math, table related, KG relate or multimodal(welcome to n
 |  [OmniTab: Pretraining with Natural and Synthetic Data for Few-shot Table-based Question Answering](https://arxiv.org/pdf/2207.03637.pdf)  | [code](https://github.com/jzbjyb/OmniTab) | [data](https://drive.google.com/drive/u/1/folders/14IAqJb9ObVDE5oOJouhkqgd_mn11PkYY) |
 |  [REASTAP: Injecting Table Reasoning Skills During Pre-training via Synthetic Reasoning Examples](https://arxiv.org/pdf/2210.12374.pdf)  | [code](https://github.com/Yale-LILY/ReasTAP) | [data](https://drive.google.com/drive/folders/1YRmRibz_fVZbrb2W1ynFWS6h-uwJw0oN?usp=sharing) |
 |  [Large Language Models are Versatile Decomposers: Decompose Evidence and Questions for Table-based Reasoning](https://arxiv.org/pdf/2301.13808)  | [code](https://github.com/AlibabaResearch/DAMO-ConvAI) | [WikiTableQuestions](https://drive.google.com/drive/u/1/folders/14IAqJb9ObVDE5oOJouhkqgd_mn11PkYY) / [FetaQA](https://arxiv.org/pdf/2104.00369v1.pdf) |
-|  [Evaluating and Enhancing Structural Understanding Capabilities of Large Language Models on Tables via Input Designs](https://arxiv.org/pdf/2305.13062.pdf)  | [code](https://github.com/RUCAIBox/POPE) | [MSCOCO](https://cocodataset.org/) / [HybridQA](https://github.com/wenhuchen/HybridQA) / [ToTTo](https://github.com/google-research-datasets/totto) / [TabFact](https://tabfact.github.io/) / [FEVEROUS](https://fever.ai/dataset/feverous.html) |
+|  [Evaluating and Enhancing Structural Understanding Capabilities of Large Language Models on Tables via Input Designs](https://arxiv.org/pdf/2305.13062.pdf)  | [code](https://github.com/RUCAIBox/POPE) | [HybridQA](https://github.com/wenhuchen/HybridQA) / [ToTTo](https://github.com/google-research-datasets/totto) / [TabFact](https://tabfact.github.io/) / [FEVEROUS](https://fever.ai/dataset/feverous.html) |
+|  [Enhancing Few-shot Text-to-SQL Capabilities of Large Language Models: A Study on Prompt Design Strategies](https://arxiv.org/pdf/2305.13062.pdf)  | [code](https://github.com/linyongnan/STRIKE) | [data](https://github.com/linyongnan/STRIKE) |
+
+|  [Enhancing Few-shot Text-to-SQL Capabilities of Large Language Models: A Study on Prompt Design Strategies](https://arxiv.org/pdf/2305.13062.pdf)  | [code](https://github.com/linyongnan/STRIKE) | [data](https://github.com/linyongnan/STRIKE) |
 
 # Related Fields
 
@@ -29,7 +32,7 @@ such common reasoning, math, table related, KG relate or multimodal(welcome to n
 
 | Paper | code | data |
 | :---------------------------------------------- | :---------------------------------------------- | :---------------------------------------------- |
-|  [Evaluating Object Hallucination in Large Vision-Language Models](https://arxiv.org/pdf/2305.10355.pdf)  | [code](https://anonymous.4open.science/r/StructuredLLM-76F3) | [SQA](https://www.microsoft.com/en-us/download/details.aspx?id=54253) / [A-OKVQA](https://allenai.org/project/a-okvqa/home) / [GQA](https://cs.stanford.edu/people/dorarad/gqa/) |
+|  [Evaluating Object Hallucination in Large Vision-Language Models](https://arxiv.org/pdf/2305.10355.pdf)  | [code](https://anonymous.4open.science/r/StructuredLLM-76F3) | [MSCOCO](https://cocodataset.org/) / [SQA](https://www.microsoft.com/en-us/download/details.aspx?id=54253) / [A-OKVQA](https://allenai.org/project/a-okvqa/home) / [GQA](https://cs.stanford.edu/people/dorarad/gqa/) |
 |  [HaluEval: A Large-Scale Hallucination Evaluation Benchmark for Large Language Models](https://arxiv.org/pdf/2305.11747.pdf)  | [code](https://github.com/RUCAIBox/HaluEval) | [data](https://github.com/RUCAIBox/HaluEval) |
 
 <!-- |  [Large Language Models are few(1)-shot Table Reasoners](https://arxiv.org/pdf/2210.06710.pdf)  | [code](https://github.com/wenhuchen/TableCoT) | |
