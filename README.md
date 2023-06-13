@@ -12,6 +12,7 @@ such common reasoning, math, table related, KG relate or multimodal(welcome to n
 
 # Tool-augmented/oriented Reasoning
 
+| Paper | code | data |
 | :---------------------------------------------- | :---------------------------------------------- | :---------------------------------------------- |
 |  [Augmented Language Models: a Survey](https://arxiv.org/pdf/2302.07842.pdf)  | / | / |
 
