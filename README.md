@@ -10,6 +10,10 @@ such common reasoning, math, table related, KG relate or multimodal(welcome to n
 ![](https://img.shields.io/github/last-commit/4IK1d/awesome-llm-reasoning?color=green) 
 ![](https://img.shields.io/badge/PRs-Welcome-red)
 
+# Tool-augmented/oriented Reasoning
+
+| :---------------------------------------------- | :---------------------------------------------- | :---------------------------------------------- |
+|  [Augmented Language Models: a Survey](https://arxiv.org/pdf/2302.07842.pdf)  | / | / |
 
 # Table-based Reasoning
 
