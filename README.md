@@ -47,6 +47,10 @@ such common reasoning, math, table related, KG relate or multimodal(welcome to n
 |  [Evaluating Object Hallucination in Large Vision-Language Models](https://arxiv.org/pdf/2305.10355.pdf)  | [code](https://anonymous.4open.science/r/StructuredLLM-76F3) | [MSCOCO](https://cocodataset.org/) / [SQA](https://www.microsoft.com/en-us/download/details.aspx?id=54253) / [A-OKVQA](https://allenai.org/project/a-okvqa/home) / [GQA](https://cs.stanford.edu/people/dorarad/gqa/) |
 |  [HaluEval: A Large-Scale Hallucination Evaluation Benchmark for Large Language Models](https://arxiv.org/pdf/2305.11747.pdf)  | [code](https://github.com/RUCAIBox/HaluEval) | [data](https://github.com/RUCAIBox/HaluEval) |
 
+## benchmark
+
+|  [Chain-of-Thought Hub: A Continuous Effort to Measure Large Language Models' Reasoning Performance](https://arxiv.org/pdf/2305.17306.pdf)  | [chain-of-thought-hub](https://github.com/FranxYao/chain-of-thought-hub) | [chain-of-thought-hub]([https://github.com/OpenBMB/ToolBench](https://github.com/FranxYao/chain-of-thought-hub)) |
+
 <!-- |  [Large Language Models are few(1)-shot Table Reasoners](https://arxiv.org/pdf/2210.06710.pdf)  | [code](https://github.com/wenhuchen/TableCoT) | |
 |  [OmniTab: Pretraining with Natural and Synthetic Data for Few-shot Table-based Question Answering](https://arxiv.org/pdf/2207.03637.pdf)  | [code](https://github.com/jzbjyb/OmniTab) | [data](https://drive.google.com/drive/u/1/folders/14IAqJb9ObVDE5oOJouhkqgd_mn11PkYY) |
 |  [REASTAP: Injecting Table Reasoning Skills During Pre-training via Synthetic Reasoning Examples](https://arxiv.org/pdf/2210.12374.pdf)  | [code](https://github.com/Yale-LILY/ReasTAP) | [data](https://drive.google.com/drive/folders/1YRmRibz_fVZbrb2W1ynFWS6h-uwJw0oN?usp=sharing) |
