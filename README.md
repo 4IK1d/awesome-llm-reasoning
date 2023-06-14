@@ -15,6 +15,9 @@ such common reasoning, math, table related, KG relate or multimodal(welcome to n
 | Paper | code | data |
 | :---------------------------------------------- | :---------------------------------------------- | :---------------------------------------------- |
 |  [Augmented Language Models: a Survey](https://arxiv.org/pdf/2302.07842.pdf)  | / | / |
+|  [Tool Learning with Foundation Models](https://arxiv.org/abs/2304.08354)  | [project](https://github.com/OpenBMB/BMTools) | / |
+|  [Behavior Cloned Transformers are Neurosymbolic Reasoners](https://arxiv.org/pdf/2210.07382.pdf)  | [neurosymbolic](https://github.com/cognitiveailab/neurosymbolic/) | [TWC](https://github.com/IBM/commonsense-rl)/[MapReader](https://living-with-machines.github.io/MapReader/) |
+|  [RECITATION-AUGMENTED LANGUAGE MODELS](https://arxiv.org/pdf/2210.01296.pdf)  | [RECITE](https://github.com/Edward-Sun/RECITE) | [NaturalQuestions](https://ai.google.com/research/NaturalQuestions)/[TriviaQA](http://nlp.cs.washington.edu/triviaqa/)/[hotpotqa](https://paperswithcode.com/dataset/hotpotqa)|
 
 # Table-based Reasoning
 
