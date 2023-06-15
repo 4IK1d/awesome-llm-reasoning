@@ -34,7 +34,10 @@ Dynamic Prompt Learning via Policy Gradient for Semi-structured Mathematical Rea
 Chameleon: Plug-and-Play Compositional Reasoning with Large Language Models|https://arxiv.org/pdf/2304.09842.pdf|Chameleon|https://chameleon-llm.github.io/|ScienceQA|https://scienceqa.github.io/|TabMWP|https://promptpg.github.io/
 Program of thoughts prompting: Disentangling computation from reasoning for numerical reasoning tasks|https://arxiv.org/abs/2211.12588|code|https://github.com/wenhuchen/Program-of-Thoughts|data|https://github.com/wenhuchen/Program-of-Thoughts
 ToolAlpaca: Generalized Tool Learning for Language Models with 3000 Simulated Cases|https://arxiv.org/pdf/2306.05301.pdf|code||data||
-TALM: Tool Augmented Language Models|https://arxiv.org/pdf/2205.12255.pdf|code||
+TALM: Tool Augmented Language Models|https://arxiv.org/pdf/2205.12255.pdf|code||NaturalQuestions|https://ai.google.com/research/NaturalQuestions|MathQA|https://math-qa.github.io/math-QA/
+Adaptive Chameleon or Stubborn Sloth: Unraveling the Behavior of Large Language Models in Knowledge Clashes|https://arxiv.org/pdf/2305.13300.pdf|LLM-knowledge-conflict|https://github.com/OSU-NLP-Group/LLM-Knowledge-Conflict|conflictQA|https://github.com/OSU-NLP-Group/LLM-Knowledge-Conflict/tree/main/conflictQA
+On the Tool Manipulation Capability of Open-source Large Language Models|https://arxiv.org/pdf/2305.16504.pdf|ToolBench|https://github.com/sambanova/toolbench|ToolBench|https://github.com/sambanova/toolbench
+
  -->
 
 
