@@ -22,6 +22,8 @@ such common reasoning, math, table related, KG relate or multimodal(welcome to n
 |  [Program of Thoughts Prompting: Disentangling Computation from Reasoning for Numerical Reasoning Tasks](https://arxiv.org/pdf/2211.12588.pdf)  | [Program-of-Thoughts](https://github.com/wenhuchen/Program-of-Thoughts) | [data](https://github.com/wenhuchen/Program-of-Thoughts) |
 |  [PAL: Program-aided Language Models](https://arxiv.org/pdf/2211.10435.pdf)  | [PAL](https://github.com/reasoning-machines/pal) | [data](https://github.com/reasoning-machines/pal/tree/main/datasets) |
 |  [SHOW YOUR WORK: SCRATCHPADS FOR INTERMEDIATE COMPUTATION WITH LANGUAGE MODELS](https://arxiv.org/pdf/2112.00114.pdf)  | / | / |
+|  [GeneGPT: Augmenting Large Language Models with Domain Tools for Improved Access to Biomedical Information(Domain Tool)](https://arxiv.org/pdf/2304.09667.pdf)  | / | [GeneTuring](https://www.biorxiv.org/content/10.1101/2023.03.11.532238v1) |
+
 
 # Table-based Reasoning
 
