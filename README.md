@@ -32,7 +32,9 @@ Dynamic Prompt Learning via Policy Gradient for Semi-structured Mathematical Rea
 
 <!-- 
 Chameleon: Plug-and-Play Compositional Reasoning with Large Language Models|https://arxiv.org/pdf/2304.09842.pdf|Chameleon|https://chameleon-llm.github.io/|ScienceQA|https://scienceqa.github.io/|TabMWP|https://promptpg.github.io/
-Program of thoughts prompting: Disentangling computation from reasoning for numerical reasoning tasks|
+Program of thoughts prompting: Disentangling computation from reasoning for numerical reasoning tasks|https://arxiv.org/abs/2211.12588|code|https://github.com/wenhuchen/Program-of-Thoughts|data|https://github.com/wenhuchen/Program-of-Thoughts
+ToolAlpaca: Generalized Tool Learning for Language Models with 3000 Simulated Cases|https://arxiv.org/pdf/2306.05301.pdf|code||data||
+TALM: Tool Augmented Language Models|https://arxiv.org/pdf/2205.12255.pdf|code||
  -->
 
 
