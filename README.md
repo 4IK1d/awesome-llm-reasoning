@@ -99,3 +99,4 @@ We are standing on the shoulders of giants, inspired and borrow a lot from them.
 - **[Instruction-Tuning-Papers](https://github.com/SinclairCoder/Instruction-Tuning-Papers)**  Reading list of Instruction-tuning.
 - **[Deep-Reasoning-Papers](https://github.com/floodsung/Deep-Reasoning-Papers)**  Recent Papers including Neural Symbolic Reasoning, Logical Reasoning, Visual Reasoning, planning and any other topics connecting deep learning and reasoning.
 - **[Awesome-LLM](https://github.com/Hannibal046/Awesome-LLM)**  Curated list of Large Language Model.
+- **[Tool Learning Papers](https://github.com/thunlp/ToolLearningPapers)** Awesome tool learning paper collection from THUNLP.
