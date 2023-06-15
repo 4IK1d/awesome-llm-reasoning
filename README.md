@@ -20,10 +20,8 @@ such common reasoning, math, table related, KG relate or multimodal(welcome to n
 |  [RECITATION-AUGMENTED LANGUAGE MODELS](https://arxiv.org/pdf/2210.01296.pdf)  | [RECITE](https://github.com/Edward-Sun/RECITE) | [NaturalQuestions](https://ai.google.com/research/NaturalQuestions)/[TriviaQA](http://nlp.cs.washington.edu/triviaqa/)/[hotpotqa](https://paperswithcode.com/dataset/hotpotqa)|
 |  [MIND’S EYE: GROUNDED LANGUAGE MODEL REASONING THROUGH SIMULATION](https://arxiv.org/pdf/2210.05359.pdf)  | / | [MuJoCo](https://mujoco.org/) |
 |  [Program of Thoughts Prompting: Disentangling Computation from Reasoning for Numerical Reasoning Tasks](https://arxiv.org/pdf/2211.12588.pdf)  | [Program-of-Thoughts](https://github.com/wenhuchen/Program-of-Thoughts) | [data](https://github.com/wenhuchen/Program-of-Thoughts) |
-|  [SHOW YOUR WORK: SCRATCHPADS FOR INTERMEDIATE COMPUTATION WITH LANGUAGE MODELS](https://arxiv.org/pdf/2112.00114.pdf)  | [PAL](https://github.com/reasoning-machines/pal) | [data](https://github.com/reasoning-machines/pal/tree/main/datasets) |
-
-
-
+|  [PAL: Program-aided Language Models](https://arxiv.org/pdf/2211.10435.pdf)  | [PAL](https://github.com/reasoning-machines/pal) | [data](https://github.com/reasoning-machines/pal/tree/main/datasets) |
+|  [SHOW YOUR WORK: SCRATCHPADS FOR INTERMEDIATE COMPUTATION WITH LANGUAGE MODELS](https://arxiv.org/pdf/2112.00114.pdf)  | / | / |
 
 # Table-based Reasoning
 
