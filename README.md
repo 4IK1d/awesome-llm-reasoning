@@ -51,6 +51,8 @@ CREATOR: Disentangling Abstract and Concrete Reasonings of Large
 Language Models through Tool Creation|https://arxiv.org/pdf/2305.14318.pdf|code||MATH|https://github.com/hendrycks/math/|abMWP|https://promptpg.github.io/
 HuggingGPT: Solving AI Tasks with ChatGPT and its Friends in HuggingFace|https://arxiv.org/pdf/2303.17580.pdf|huggingGPT|https://github.com/microsoft/JARVIS|data|https://github.com/microsoft/JARVIS|
 ToolkenGPT: Augmenting Frozen Language Models with Massive Tools via Tool Embeddings|https://arxiv.org/pdf/2305.11554.pdf|/||/||
+WebGPT: Browser-assisted question-answering with human feedback|https://arxiv.org/abs/2112.09332|/||/||
+WebCPM: Interactive Web Search for Chinese Long-form Question Answering|https://arxiv.org/abs/2305.06849|webcpm|https://github.com/thunlp/WebCPM|data|https://github.com/thunlp/WebCPM
  -->
 
 
