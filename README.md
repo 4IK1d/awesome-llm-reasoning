@@ -10,11 +10,20 @@ such common reasoning, math, table related, KG relate or multimodal(welcome to n
 ![](https://img.shields.io/github/last-commit/4IK1d/awesome-llm-reasoning?color=green) 
 ![](https://img.shields.io/badge/PRs-Welcome-red)
 
-# Math Reasoning
+<!-- # Math Reasoning -->
 
 <!-- 
 Dynamic Prompt Learning via Policy Gradient for Semi-structured Mathematical Reasoning|https://arxiv.org/abs/2209.14610|PromptPG|https://github.com/lupantech/PromptPG|TabMWP|https://promptpg.github.io/
  -->
+ 
+<!--  # Robotic -->
+
+<!-- multi-modal -->
+
+<!-- 
+Socratic Models: Composing Zero-Shot Multimodal Reasoning with Language|https://arxiv.org/pdf/2204.00598.pdf|Socratic Models|https://socraticmodels.github.io/#code|data|https://socraticmodels.github.io/
+ -->
+ 
 
 # Tool-augmented/oriented Reasoning
 
@@ -37,6 +46,8 @@ ToolAlpaca: Generalized Tool Learning for Language Models with 3000 Simulated Ca
 TALM: Tool Augmented Language Models|https://arxiv.org/pdf/2205.12255.pdf|code||NaturalQuestions|https://ai.google.com/research/NaturalQuestions|MathQA|https://math-qa.github.io/math-QA/
 Adaptive Chameleon or Stubborn Sloth: Unraveling the Behavior of Large Language Models in Knowledge Clashes|https://arxiv.org/pdf/2305.13300.pdf|LLM-knowledge-conflict|https://github.com/OSU-NLP-Group/LLM-Knowledge-Conflict|conflictQA|https://github.com/OSU-NLP-Group/LLM-Knowledge-Conflict/tree/main/conflictQA
 On the Tool Manipulation Capability of Open-source Large Language Models|https://arxiv.org/pdf/2305.16504.pdf|ToolBench|https://github.com/sambanova/toolbench|ToolBench|https://github.com/sambanova/toolbench
+CREATOR: Disentangling Abstract and Concrete Reasonings of Large
+Language Models through Tool Creation|https://arxiv.org/pdf/2305.14318.pdf|code||MATH|https://github.com/hendrycks/math/|abMWP|https://promptpg.github.io/
 
  -->
 
