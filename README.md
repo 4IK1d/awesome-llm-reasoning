@@ -22,6 +22,7 @@ Dynamic Prompt Learning via Policy Gradient for Semi-structured Mathematical Rea
 
 <!-- 
 Socratic Models: Composing Zero-Shot Multimodal Reasoning with Language|https://arxiv.org/pdf/2204.00598.pdf|Socratic Models|https://socraticmodels.github.io/#code|data|https://socraticmodels.github.io/
+Visual ChatGPT: Talking, Drawing and Editing with Visual Foundation Models|https://arxiv.org/pdf/2303.04671.pdf|TaskMatrix|https://github.com/microsoft/TaskMatrix|data||
  -->
  
 
@@ -48,7 +49,8 @@ Adaptive Chameleon or Stubborn Sloth: Unraveling the Behavior of Large Language 
 On the Tool Manipulation Capability of Open-source Large Language Models|https://arxiv.org/pdf/2305.16504.pdf|ToolBench|https://github.com/sambanova/toolbench|ToolBench|https://github.com/sambanova/toolbench
 CREATOR: Disentangling Abstract and Concrete Reasonings of Large
 Language Models through Tool Creation|https://arxiv.org/pdf/2305.14318.pdf|code||MATH|https://github.com/hendrycks/math/|abMWP|https://promptpg.github.io/
-
+HuggingGPT: Solving AI Tasks with ChatGPT and its Friends in HuggingFace|https://arxiv.org/pdf/2303.17580.pdf|huggingGPT|https://github.com/microsoft/JARVIS|data|https://github.com/microsoft/JARVIS|
+ToolkenGPT: Augmenting Frozen Language Models with Massive Tools via Tool Embeddings|https://arxiv.org/pdf/2305.11554.pdf|/||/||
  -->
 
 
