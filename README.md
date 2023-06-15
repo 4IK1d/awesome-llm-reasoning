@@ -68,6 +68,7 @@ WebCPM: Interactive Web Search for Chinese Long-form Question Answering|https://
 |  [Large Language Models are Versatile Decomposers: Decompose Evidence and Questions for Table-based Reasoning](https://arxiv.org/pdf/2301.13808)  | [code](https://github.com/AlibabaResearch/DAMO-ConvAI) | [WikiTableQuestions](https://drive.google.com/drive/u/1/folders/14IAqJb9ObVDE5oOJouhkqgd_mn11PkYY) / [FetaQA](https://arxiv.org/pdf/2104.00369v1.pdf) |
 |  [Evaluating and Enhancing Structural Understanding Capabilities of Large Language Models on Tables via Input Designs](https://arxiv.org/pdf/2305.13062.pdf)  | [code](https://github.com/RUCAIBox/POPE) | [HybridQA](https://github.com/wenhuchen/HybridQA) / [ToTTo](https://github.com/google-research-datasets/totto) / [TabFact](https://tabfact.github.io/) / [FEVEROUS](https://fever.ai/dataset/feverous.html) |
 |  [Enhancing Few-shot Text-to-SQL Capabilities of Large Language Models: A Study on Prompt Design Strategies](https://arxiv.org/pdf/2305.13062.pdf)  | [code](https://github.com/linyongnan/STRIKE) | [data](https://github.com/linyongnan/STRIKE) |
+|  [Can LLM Already Serve as A Database Interface? A BIg Bench for Large-Scale Database Grounded Text-to-SQL](https://arxiv.org/abs/2305.03111)  | [BIRD](https://github.com/AlibabaResearch/DAMO-ConvAI/tree/main/bird) | [data](https://github.com/AlibabaResearch/DAMO-ConvAI/tree/main/bird) |
 
 # Related Fields
 
