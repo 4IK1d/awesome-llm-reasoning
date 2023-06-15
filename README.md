@@ -10,6 +10,12 @@ such common reasoning, math, table related, KG relate or multimodal(welcome to n
 ![](https://img.shields.io/github/last-commit/4IK1d/awesome-llm-reasoning?color=green) 
 ![](https://img.shields.io/badge/PRs-Welcome-red)
 
+# Math Reasoning
+
+<!-- 
+Dynamic Prompt Learning via Policy Gradient for Semi-structured Mathematical Reasoning|https://arxiv.org/abs/2209.14610|PromptPG|https://github.com/lupantech/PromptPG|TabMWP|https://promptpg.github.io/
+ -->
+
 # Tool-augmented/oriented Reasoning
 
 | Paper | code | data |
@@ -23,6 +29,11 @@ such common reasoning, math, table related, KG relate or multimodal(welcome to n
 |  [PAL: Program-aided Language Models](https://arxiv.org/pdf/2211.10435.pdf)  | [PAL](https://github.com/reasoning-machines/pal) | [data](https://github.com/reasoning-machines/pal/tree/main/datasets) |
 |  [SHOW YOUR WORK: SCRATCHPADS FOR INTERMEDIATE COMPUTATION WITH LANGUAGE MODELS](https://arxiv.org/pdf/2112.00114.pdf)  | / | / |
 |  [GeneGPT: Augmenting Large Language Models with Domain Tools for Improved Access to Biomedical Information(Domain Tool)](https://arxiv.org/pdf/2304.09667.pdf)  | / | [GeneTuring](https://www.biorxiv.org/content/10.1101/2023.03.11.532238v1) |
+
+<!-- 
+Chameleon: Plug-and-Play Compositional Reasoning with Large Language Models|https://arxiv.org/pdf/2304.09842.pdf|Chameleon|https://chameleon-llm.github.io/|ScienceQA|https://scienceqa.github.io/|TabMWP|https://promptpg.github.io/
+Program of thoughts prompting: Disentangling computation from reasoning for numerical reasoning tasks|
+ -->
 
 
 # Table-based Reasoning
