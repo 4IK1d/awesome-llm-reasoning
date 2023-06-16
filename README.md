@@ -71,6 +71,10 @@ WebCPM: Interactive Web Search for Chinese Long-form Question Answering|https://
 |  [Enhancing Few-shot Text-to-SQL Capabilities of Large Language Models: A Study on Prompt Design Strategies](https://arxiv.org/pdf/2305.13062.pdf)  | [code](https://github.com/linyongnan/STRIKE) | [data](https://github.com/linyongnan/STRIKE) |
 |  [Can LLM Already Serve as A Database Interface? A BIg Bench for Large-Scale Database Grounded Text-to-SQL](https://arxiv.org/abs/2305.03111)  | [BIRD](https://github.com/AlibabaResearch/DAMO-ConvAI/tree/main/bird) | [data](https://github.com/AlibabaResearch/DAMO-ConvAI/tree/main/bird) |
 
+<!-- 
+FROM ZERO TO HERO: EXAMINING THE POWER OF SYMBOLIC TASKS IN INSTRUCTION TUNING|https://arxiv.org/pdf/2304.07995.pdf|symbolic-instruction-tuning|https://github.com/sail-sg/symbolic-instruction-tuning|https://huggingface.co/datasets/lukaemon/bbh|MMLU|https://github.com/hendrycks/test
+ -->
+
 # Related Fields
 
 ## Hallucination Evaluation
