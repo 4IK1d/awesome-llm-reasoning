@@ -74,6 +74,7 @@ WebCPM: Interactive Web Search for Chinese Long-form Question Answering|https://
 <!-- 
 FROM ZERO TO HERO: EXAMINING THE POWER OF SYMBOLIC TASKS IN INSTRUCTION TUNING|https://arxiv.org/pdf/2304.07995.pdf|symbolic-instruction-tuning|https://github.com/sail-sg/symbolic-instruction-tuning|https://huggingface.co/datasets/lukaemon/bbh|MMLU|https://github.com/hendrycks/test
 Improving Logical-Level Natural Language Generation with Topic-Conditioned Data Augmentation and Logical Form Generation|https://arxiv.org/pdf/2112.06240.pdf|code||Logic2text|https://github.com/czyssrs/Logic2Text
+HiTab: A Hierarchical Table Dataset for Question Answering and Natural Language Generation|https://arxiv.org/pdf/2108.06712.pdf|HiTab|https://github.com/microsoft/HiTab|~~TAT-QA, FinQA, and NumericNLG~~|
  -->
 
 # Related Fields
