@@ -95,6 +95,12 @@ Inference-Time Intervention: Eliciting Truthful Answers from a Language Model|ht
 |  [REASTAP: Injecting Table Reasoning Skills During Pre-training via Synthetic Reasoning Examples](https://arxiv.org/pdf/2210.12374.pdf)  | [code](https://github.com/Yale-LILY/ReasTAP) | [data](https://drive.google.com/drive/folders/1YRmRibz_fVZbrb2W1ynFWS6h-uwJw0oN?usp=sharing) |
 |  [Large Language Models are Versatile Decomposers: Decompose Evidence and Questions for Table-based Reasoning](https://arxiv.org/pdf/2301.13808)  | [code](https://github.com/AlibabaResearch/DAMO-ConvAI) | [WikiTableQuestions](https://drive.google.com/drive/u/1/folders/14IAqJb9ObVDE5oOJouhkqgd_mn11PkYY) / [FetaQA](https://arxiv.org/pdf/2104.00369v1.pdf) | -->
 
+<!-- # Toolkits -->
+<!-- 
+TabGenie: A Toolkit for Table-to-Text Generation|https://arxiv.org/pdf/2302.14169.pdf|TabGenie|https://github.com/kasnerz/tabgenie|/||
+
+ -->
+
 ## Refer to Awesome Lists
 
 We are standing on the shoulders of giants, inspired and borrow a lot from them.
