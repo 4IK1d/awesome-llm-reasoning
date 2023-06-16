@@ -15,6 +15,8 @@ such common reasoning, math, table related, KG relate or multimodal(welcome to n
 <!-- 
 Dynamic Prompt Learning via Policy Gradient for Semi-structured Mathematical Reasoning|https://arxiv.org/abs/2209.14610|PromptPG|https://github.com/lupantech/PromptPG|TabMWP|https://promptpg.github.io/
 Evaluating and Improving Tool-Augmented Computation-Intensive Math Reasoning|https://arxiv.org/pdf/2306.02408.pdf|CARP|https://github.com/RUCAIBox/CARP|CARP|https://github.com/RUCAIBox/CARP
+STaR: Self-Taught Reasoner Bootstrapping Reasoning With Reasoning|https://arxiv.org/pdf/2203.14465.pdf|code||CommonsenseQAhttps://www.tau-nlp.sites.tau.ac.il/commonsenseqa|GSM8K|https://github.com/openai/grade-school-math
+
  -->
  
 <!--  # Robotic -->
