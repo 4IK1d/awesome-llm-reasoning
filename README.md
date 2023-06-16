@@ -80,7 +80,7 @@ WebCPM: Interactive Web Search for Chinese Long-form Question Answering|https://
 |  [HaluEval: A Large-Scale Hallucination Evaluation Benchmark for Large Language Models](https://arxiv.org/pdf/2305.11747.pdf)  | [code](https://github.com/RUCAIBox/HaluEval) | [data](https://github.com/RUCAIBox/HaluEval) |
 <!-- 
 HISTALIGN: Improving Context Dependency in Language Generation by Aligning with History|https://arxiv.org/pdf/2305.04782.pdf|histalign|https://github.com/meetdavidwan/histalign|FactCC|https://github.com/salesforce/factCC|DAE|https://github.com/tagoyal/factuality-datasets|LogicNLG|https://github.com/wenhuchen/LogicNLG/tree/master/data
-Inference-Time Intervention: Eliciting Truthful Answers from a Language Model|https://arxiv.org/pdf/2306.03341.pdf|honest_llama|https://github.com/likenneth/honest_llama|
+Inference-Time Intervention: Eliciting Truthful Answers from a Language Model|https://arxiv.org/pdf/2306.03341.pdf|honest_llama|https://github.com/likenneth/honest_llama|TruthfulQA|https://github.com/sylinrl/TruthfulQA
 
  -->
 
