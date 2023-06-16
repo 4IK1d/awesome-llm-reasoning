@@ -95,6 +95,7 @@ Inference-Time Intervention: Eliciting Truthful Answers from a Language Model|ht
 <!-- 
 Complex QA and language models hybrid architectures, Survey|https://arxiv.org/pdf/2302.09051.pdf|/||/||
 Knowledge-enhanced Neural Machine Reasoning: A Review|https://arxiv.org/pdf/2302.02093.pdf|/||/||
+Natural Language Reasoning, A Survey|https://arxiv.org/pdf/2303.14725.pdf|/||/||
  -->
 
 ## benchmark
