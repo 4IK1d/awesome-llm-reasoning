@@ -103,10 +103,12 @@ Knowledge-enhanced Neural Machine Reasoning: A Review|https://arxiv.org/pdf/2302
 | :---------------------------------------------- | :---------------------------------------------- | :---------------------------------------------- |
 |  [Chain-of-Thought Hub: A Continuous Effort to Measure Large Language Models' Reasoning Performance](https://arxiv.org/pdf/2305.17306.pdf)  | [chain-of-thought-hub](https://github.com/FranxYao/chain-of-thought-hub) | [chain-of-thought-hub]([https://github.com/OpenBMB/ToolBench](https://github.com/FranxYao/chain-of-thought-hub)) |
 
-<!-- |  [Large Language Models are few(1)-shot Table Reasoners](https://arxiv.org/pdf/2210.06710.pdf)  | [code](https://github.com/wenhuchen/TableCoT) | |
-|  [OmniTab: Pretraining with Natural and Synthetic Data for Few-shot Table-based Question Answering](https://arxiv.org/pdf/2207.03637.pdf)  | [code](https://github.com/jzbjyb/OmniTab) | [data](https://drive.google.com/drive/u/1/folders/14IAqJb9ObVDE5oOJouhkqgd_mn11PkYY) |
-|  [REASTAP: Injecting Table Reasoning Skills During Pre-training via Synthetic Reasoning Examples](https://arxiv.org/pdf/2210.12374.pdf)  | [code](https://github.com/Yale-LILY/ReasTAP) | [data](https://drive.google.com/drive/folders/1YRmRibz_fVZbrb2W1ynFWS6h-uwJw0oN?usp=sharing) |
-|  [Large Language Models are Versatile Decomposers: Decompose Evidence and Questions for Table-based Reasoning](https://arxiv.org/pdf/2301.13808)  | [code](https://github.com/AlibabaResearch/DAMO-ConvAI) | [WikiTableQuestions](https://drive.google.com/drive/u/1/folders/14IAqJb9ObVDE5oOJouhkqgd_mn11PkYY) / [FetaQA](https://arxiv.org/pdf/2104.00369v1.pdf) | -->
+
+
+
+<!-- 
+|Challenging BIG-Bench Tasks and Whether Chain-of-Thought Can Solve Them|https://arxiv.org/pdf/2210.09261.pdf|/||/||
+-->
 
 <!-- ## Toolkits -->
 <!-- 
@@ -127,3 +129,10 @@ We are standing on the shoulders of giants, inspired and borrow a lot from them.
 - **[Deep-Reasoning-Papers](https://github.com/floodsung/Deep-Reasoning-Papers)**  Recent Papers including Neural Symbolic Reasoning, Logical Reasoning, Visual Reasoning, planning and any other topics connecting deep learning and reasoning.
 - **[Awesome-LLM](https://github.com/Hannibal046/Awesome-LLM)**  Curated list of Large Language Model.
 - **[Tool Learning Papers](https://github.com/thunlp/ToolLearningPapers)** Awesome tool learning paper collection from THUNLP.
+
+
+
+<!-- |  [Large Language Models are few(1)-shot Table Reasoners](https://arxiv.org/pdf/2210.06710.pdf)  | [code](https://github.com/wenhuchen/TableCoT) | |
+|  [OmniTab: Pretraining with Natural and Synthetic Data for Few-shot Table-based Question Answering](https://arxiv.org/pdf/2207.03637.pdf)  | [code](https://github.com/jzbjyb/OmniTab) | [data](https://drive.google.com/drive/u/1/folders/14IAqJb9ObVDE5oOJouhkqgd_mn11PkYY) |
+|  [REASTAP: Injecting Table Reasoning Skills During Pre-training via Synthetic Reasoning Examples](https://arxiv.org/pdf/2210.12374.pdf)  | [code](https://github.com/Yale-LILY/ReasTAP) | [data](https://drive.google.com/drive/folders/1YRmRibz_fVZbrb2W1ynFWS6h-uwJw0oN?usp=sharing) |
+|  [Large Language Models are Versatile Decomposers: Decompose Evidence and Questions for Table-based Reasoning](https://arxiv.org/pdf/2301.13808)  | [code](https://github.com/AlibabaResearch/DAMO-ConvAI) | [WikiTableQuestions](https://drive.google.com/drive/u/1/folders/14IAqJb9ObVDE5oOJouhkqgd_mn11PkYY) / [FetaQA](https://arxiv.org/pdf/2104.00369v1.pdf) |  -->
