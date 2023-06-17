@@ -56,6 +56,7 @@ HuggingGPT: Solving AI Tasks with ChatGPT and its Friends in HuggingFace|https:/
 ToolkenGPT: Augmenting Frozen Language Models with Massive Tools via Tool Embeddings|https://arxiv.org/pdf/2305.11554.pdf|/||/||
 WebGPT: Browser-assisted question-answering with human feedback|https://arxiv.org/abs/2112.09332|/||/||
 WebCPM: Interactive Web Search for Chinese Long-form Question Answering|https://arxiv.org/abs/2305.06849|webcpm|https://github.com/thunlp/WebCPM|data|https://github.com/thunlp/WebCPM
+SwiftSage: A Generative Agent with Fast and Slow Thinking for Complex Interactive Tasks|https://arxiv.org/abs/2305.17390|SwiftSage|https://github.com/yuchenlin/swiftsage/|ScienceWorld benchmark|https://sciworld.apps.allenai.org/
  -->
 
 
