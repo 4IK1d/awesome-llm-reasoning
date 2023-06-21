@@ -26,6 +26,7 @@ Large Language Models are Zero-Shot Reasoners|https://arxiv.org/abs/2205.11916|z
 <!-- 
 Socratic Models: Composing Zero-Shot Multimodal Reasoning with Language|https://arxiv.org/pdf/2204.00598.pdf|Socratic Models|https://socraticmodels.github.io/#code|data|https://socraticmodels.github.io/
 Visual ChatGPT: Talking, Drawing and Editing with Visual Foundation Models|https://arxiv.org/pdf/2303.04671.pdf|TaskMatrix|https://github.com/microsoft/TaskMatrix|data||
+Plan-and-Solve Prompting: Improving Zero-Shot Chain-of-ThoughtReasoning by Large Language Models|https://arxiv.org/pdf/2305.04091.pdf|code|https://github.com/AGI-Edgerunners/Plan-and-Solve-Prompting|GSM8K|https://github.com/openai/grade-school-math
  -->
  
 
