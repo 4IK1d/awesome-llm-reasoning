@@ -10,6 +10,12 @@ such common reasoning, math, table related, KG relate or multimodal(welcome to n
 ![](https://img.shields.io/github/last-commit/4IK1d/awesome-llm-reasoning?color=green) 
 ![](https://img.shields.io/badge/PRs-Welcome-red)
 
+<!-- General -->
+<!-- 
+ReWOO: Decoupling Reasoning from Observations for Efficient Augmented Language Models|https://arxiv.org/pdf/2305.18323.pdf|ReWOO|https://github.com/billxbf/ReWOO|TriviaQA|http://nlp.cs.washington.edu/triviaqa|hotpotqa|https://paperswithcode.com/dataset/hotpotqa|GSM8K|https://github.com/openai/grade-school-math|
+Orca: Progressive Learning from Complex Explanation Traces of GPT-4|https://arxiv.org/abs/2306.02707|orca-lm|https://aka.ms/orca-lm|BBH||AGIEval||
+ -->
+
 <!-- # Math Reasoning -->
 
 <!-- 
