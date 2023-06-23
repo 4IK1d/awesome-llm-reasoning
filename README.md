@@ -64,6 +64,7 @@ ToolkenGPT: Augmenting Frozen Language Models with Massive Tools via Tool Embedd
 WebGPT: Browser-assisted question-answering with human feedback|https://arxiv.org/abs/2112.09332|/||/||
 WebCPM: Interactive Web Search for Chinese Long-form Question Answering|https://arxiv.org/abs/2305.06849|webcpm|https://github.com/thunlp/WebCPM|data|https://github.com/thunlp/WebCPM
 SwiftSage: A Generative Agent with Fast and Slow Thinking for Complex Interactive Tasks|https://arxiv.org/abs/2305.17390|SwiftSage|https://github.com/yuchenlin/swiftsage/|ScienceWorld benchmark|https://sciworld.apps.allenai.org/
+ReWOO: Decoupling Reasoning from Observations for Efficient Augmented Language Models|https://arxiv.org/abs/2305.18323|ReWOO|https://github.com/billxbf/ReWOO|hotpotqa|https://paperswithcode.com/dataset/hotpotqa
  -->
 
 
